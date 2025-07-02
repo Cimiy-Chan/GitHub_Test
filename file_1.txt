@@ -1,2 +1,0 @@
-This is line_1 and version 1.1
-  
